@@ -1,3 +1,15 @@
+# React-TypeScript Quiz
+
+Play the Quiz [here](https://react-typescript-quiz-inky.vercel.app/)!
+
+Tech Stack
+
+- React
+- TypeScript
+- Styled Components
+
+![Screenshot](public/images/screenshot.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
